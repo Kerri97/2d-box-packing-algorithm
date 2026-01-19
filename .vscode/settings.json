@@ -1,0 +1,7 @@
+{
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.bracketPairColorization.enabled": true,
+    "liveServer.settings.port": 5501
+}

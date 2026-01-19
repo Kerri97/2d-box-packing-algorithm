@@ -1,0 +1,12 @@
+html, body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    font-family: sans-serif;
+    color: #fcfcfc;
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+    justify-content: center;
+}
